@@ -80,7 +80,7 @@ int main(int argc, char *argv[]) {
         return 1;
     }
     // Set the target width according to your terminal size, mine is 150.
-    int target_width = 150;
+    int target_width = 100;
     int target_height = (int)((height * (target_width / (float)width)) / 2.0f); // fix for 2:1 terminal ratio
     if (target_height < 1) target_height = 1;
 
