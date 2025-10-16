@@ -1,12 +1,13 @@
-Absolutely! Here's a clean, human-friendly **README.md** for your terminal ASCII art project:
-
----
-
 # Terminal Image ASCII Art Renderer
 
 A simple **C program** that converts any image into **colorized ASCII art** and prints it directly in your terminal. The program uses the **brightness and hue of each pixel** to choose both the character and its color, producing a terminal-friendly, visually appealing representation of your image.
 
 ---
+
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/atharvaarbat/image-in-terminal/refs/heads/main/screenshot/terminal.png)
+![Original Image](https://raw.githubusercontent.com/atharvaarbat/image-in-terminal/refs/heads/main/image.jpg)
 
 ## Features
 
